@@ -1,0 +1,7 @@
+/Users/m-c-hill/dev/tim-corey-c#/01_getting_started/ConsoleUI/bin/Release/ConsoleUI.exe.config
+/Users/m-c-hill/dev/tim-corey-c#/01_getting_started/ConsoleUI/bin/Release/ConsoleUI.exe
+/Users/m-c-hill/dev/tim-corey-c#/01_getting_started/ConsoleUI/bin/Release/ConsoleUI.pdb
+/Users/m-c-hill/dev/tim-corey-c#/01_getting_started/ConsoleUI/obj/Release/ConsoleUI.csproj.AssemblyReference.cache
+/Users/m-c-hill/dev/tim-corey-c#/01_getting_started/ConsoleUI/obj/Release/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/m-c-hill/dev/tim-corey-c#/01_getting_started/ConsoleUI/obj/Release/ConsoleUI.exe
+/Users/m-c-hill/dev/tim-corey-c#/01_getting_started/ConsoleUI/obj/Release/ConsoleUI.pdb
